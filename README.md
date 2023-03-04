@@ -10,7 +10,7 @@ Functional Requirements:
 - Users can add products to a cart
 - Users can proceed to buy the products in the cart
 - Relevant products can be recommended to users
-- Sellers can add their shop to the platform
+- Sellers can add their shop and products to the platform
 
 Non-Functional Requirements:
 - Availability
