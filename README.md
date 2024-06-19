@@ -1,6 +1,8 @@
  
 # E-Commerce Diagram
-This is a conceptual diagram to demonstrate how an e-commerce system might operate.
+This is a conceptual diagram to demonstrate how an e-commerce system might operate:
+
+![E-commerce Conceptual Diagram](./ecommerce-diagram.drawio.png?raw=true "E-commerce Conce[tual Diagram")
 
 ---
 ## Actors:
